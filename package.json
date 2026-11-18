@@ -1,0 +1,9 @@
+{
+  "name": "halavah-personal-site",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/check-personal-page.mjs",
+    "check:page": "node scripts/check-personal-page.mjs"
+  }
+}
